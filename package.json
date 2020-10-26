@@ -1,6 +1,6 @@
 {
   "name": "leumi-leumicard-bank-data-scraper",
-  "version": "1.0.",
+  "version": "1.0.0",
   "description": "Open bank data for Leumi bank and Leumi card credit card",
   "license": "MIT",
   "readmeFilename": "README.md",
